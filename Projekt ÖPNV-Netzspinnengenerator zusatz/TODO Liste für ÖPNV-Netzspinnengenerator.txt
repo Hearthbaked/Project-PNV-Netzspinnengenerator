@@ -1,0 +1,31 @@
+Ziel der Anwendung ist es eine klassische Netzspinne (bsp. BVG-Netzspinne S+U-Bahn, Netzspinne Hamburger U-Bahn etc.) für Städte erstellen zu lassen mit verschiedenen 
+Linienarten (U-Bahn, S-Bahn, Fähren, Tram, ggf. Regionalbahn - und Express), diese erhalten Bezeichnungen (bsp Tram: Linie 1 oder T1), eine Gesamtlänge zur Erfassung
+sowie eine Farbengattung (Bus: Lila/Violet; Tram: Rot/Orange; U-Bahn: Dunkelblau; S-Bahn: Grün; RB/RE: Rot; Fähren: Blau).
+
+Durch das erste Form kann der Nutzer Linien erstellen (später auch Städte), diesen eine Bezeichnung/name geben und sie einer Linienart zuweisen.  
+Der Nutzer kann mittels eines zweiten Forms, dann Haltestellen diesen Linien zuordnen und Koordinaten diesen Haltestellen mitzugeben.
+
+Durch das dritte und letzte Form soll letztendlich eine einfache Netzspinne generiert werden, die Die Linien farblich in ihren Kategorien darstellt,
+in einem späteren Build sollen auch die Individuellen Linien der Linienarten eigene Farben erhalten oder generell individuelle Netzspinnen generieren.
+Diese Netzspinne soll dann durch das dritte Form auch exportiert werden können in eine Datei (noch nicht festgelegt, evtl: jpg, svg oder pdf), um sie auch u.a. 
+ausdrucken zu können mittels eines Druckers.
+
+Zu einem späteren Zeitpunkt soll dass Programm ggf. auch Maps mit echten Geodaten erstellen können.   
+
+
+TODO:
+
+1.GUI-Blaupausen für Programm Logik erstellen.
+
+2.ERD für die Datenbank erstellen.
+
+3.Datenbank erstellen zum einspeisen der Daten der Linien, Haltepunkte und später Städte.
+
+4.Erste Form für Information der Linien-Art, Bezeichnung, Länge der Strecke und Verfügbarkeit etc. (später auch mit Stadt als eingabe und eigene Klasse).
+
+5.Zweite Form für Haltepunkte für Info welche Linien halten, Koordinaten für position der Haltestelle.
+
+6.Dritte Form zum generieren der Netzspinne mittels Zeichner im dritten Form (erstmal simple Netzspinne ohne Geodaten).
+
+7.Erstmal mit einer festgelegten kleinen Stadt mit 2 Linien (eine Bus und eine Tram Linie).
+

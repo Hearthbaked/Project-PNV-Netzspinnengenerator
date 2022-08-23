@@ -1,0 +1,72 @@
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.exe.config
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.exe
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.pdb
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.AssemblyReference.cache
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.SuggestedBindingRedirects.cache
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormHaltestellen.resources
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormLinien.resources
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.Properties.Resources.resources
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.GenerateResource.cache
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.CoreCompileInputs.cache
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.exe
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.pdb
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormZeichner.resources
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.exe.config
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.exe
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Projekt ÖPNV-Netzspinnengenerator.pdb
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\BouncyCastle.Crypto.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Hash.xxHash.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\MySql.Data.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Buffers.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Memory.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Numerics.Vectors.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Ubiety.Dns.Core.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\ZstdNet.dll
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.pdb
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Hash.xxHash.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\MySql.Data.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Buffers.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Memory.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Numerics.Vectors.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.AssemblyReference.cache
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.SuggestedBindingRedirects.cache
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormHaltestellen.resources
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormLinien.resources
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.FormZeichner.resources
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt_ÖPNV_Netzspinnengenerator.Properties.Resources.resources
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.GenerateResource.cache
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.CoreCompileInputs.cache
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.CopyComplete
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.exe
+F:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.pdb
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Hash.xxHash.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\MySql.Data.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Buffers.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Memory.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Numerics.Vectors.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Ubiety.Dns.Core.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\ZstdNet.dll
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.pdb
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\Google.Protobuf.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\K4os.Hash.xxHash.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\MySql.Data.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Buffers.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Memory.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Numerics.Vectors.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programmierpark_Mobile\C#\CSharpProjekte\Projekt ÖPNV-Netzspinnengenerator\Projekt ÖPNV-Netzspinnengenerator\obj\Debug\Projekt ÖPNV-Netzspinnengenerator.csproj.CopyComplete
